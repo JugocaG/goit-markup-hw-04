@@ -213,7 +213,7 @@ footer {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url("./images/decorative_principal.jpg");
+  background-image: url("/images/decorative_principal.jpg");
 }
 
 .principal-section > h1 {
@@ -277,7 +277,7 @@ footer {
 .dedication-box-one {
   width: 370px;
   height: 294px;
-  background-image: url(./images/dedication_one.jpg);
+  background-image: url("/images/dedication_one.jpg");
   display: flex;
   align-items: flex-end;
 }
@@ -285,7 +285,7 @@ footer {
 .dedication-box-two {
   width: 370px;
   height: 294px;
-  background-image: url(./images/dedication_two.jpg);
+  background-image: url("/images/dedication_two.jpg");
   display: flex;
   align-items: flex-end;
 }
@@ -293,7 +293,7 @@ footer {
 .dedication-box-three {
   width: 370px;
   height: 294px;
-  background-image: url(./images/dedication_three.jpg);
+  background-image: url("/images/dedication_three.jpg");
   display: flex;
   align-items: flex-end;
 }
